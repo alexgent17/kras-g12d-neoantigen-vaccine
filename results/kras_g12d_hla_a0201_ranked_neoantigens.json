@@ -1,0 +1,16 @@
+[
+    {
+        "Peptide": "LVVVGADGV",
+        "Start_Pos": 6,
+        "End_Pos": 14,
+        "Mutated_Residue_Pos": 7,
+        "IC50_nM (Afinidad)": 76.71
+    },
+    {
+        "Peptide": "VVVGADGVG",
+        "Start_Pos": 7,
+        "End_Pos": 15,
+        "Mutated_Residue_Pos": 6,
+        "IC50_nM (Afinidad)": 225.88
+    }
+]
